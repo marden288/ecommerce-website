@@ -1,3 +1,5 @@
 node_modules/
-client/build/
-*.png
+.env
+.env.local
+dist/
+build/
